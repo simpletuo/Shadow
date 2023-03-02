@@ -63,7 +63,7 @@ TextureImporter:
       213: -4228939798685505844
     second: Sorcerer_SpriteSheet_19
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -84,6 +84,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -122,6 +123,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -137,6 +139,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
@@ -580,6 +606,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Sorcerer_SpriteSheet_9: 3150582726721749308
+      Sorcerer_SpriteSheet_18: 4243543665579142326
+      Sorcerer_SpriteSheet_2: -3895186124770345180
+      Sorcerer_SpriteSheet_10: -7900104142918328705
+      Sorcerer_SpriteSheet_13: -6887426814556697133
+      Sorcerer_SpriteSheet_12: -2321319168577777436
+      Sorcerer_SpriteSheet_16: -5071681548683921915
+      Sorcerer_SpriteSheet_1: 4366731334907871733
+      Sorcerer_SpriteSheet_5: 6581680034169471168
+      Sorcerer_SpriteSheet_4: -1511269979884645251
+      Sorcerer_SpriteSheet_19: -4228939798685505844
+      Sorcerer_SpriteSheet_0: -2120301941766223111
+      Sorcerer_SpriteSheet_7: -8635464611469416770
+      Sorcerer_SpriteSheet_14: -7184294211865314809
+      Sorcerer_SpriteSheet_11: -2097483409594701975
+      Sorcerer_SpriteSheet_8: -8279445757495795195
+      Sorcerer_SpriteSheet_15: 3893181054842516258
+      Sorcerer_SpriteSheet_17: 246717720315598474
+      Sorcerer_SpriteSheet_3: -1466747101720240125
+      Sorcerer_SpriteSheet_6: 516628650198468818
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

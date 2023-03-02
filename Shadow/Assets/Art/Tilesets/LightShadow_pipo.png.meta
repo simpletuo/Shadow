@@ -147,7 +147,7 @@ TextureImporter:
       213: -6455575990961602457
     second: LightShadow_pipo_47
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -168,6 +168,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -206,6 +207,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -221,6 +223,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1252,6 +1278,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LightShadow_pipo_25: 4941707221820660006
+      LightShadow_pipo_44: 8294698641252084392
+      LightShadow_pipo_12: -570287294810859713
+      LightShadow_pipo_32: -2294808840916641818
+      LightShadow_pipo_42: -201117546294358147
+      LightShadow_pipo_22: -8156522409487334058
+      LightShadow_pipo_30: -1002425063828510298
+      LightShadow_pipo_19: 1450975121104406632
+      LightShadow_pipo_26: 2517103552361824244
+      LightShadow_pipo_46: 6092480075908888596
+      LightShadow_pipo_2: 1073131107337555483
+      LightShadow_pipo_33: -2535592068748681695
+      LightShadow_pipo_18: 3618601513488124929
+      LightShadow_pipo_5: -643817265410652773
+      LightShadow_pipo_35: -5501524575505533294
+      LightShadow_pipo_3: 9080168586584728501
+      LightShadow_pipo_6: -7915911172336433122
+      LightShadow_pipo_20: -654441288009246724
+      LightShadow_pipo_14: -7754521578494584853
+      LightShadow_pipo_43: 5464941486838186162
+      LightShadow_pipo_39: 6822944872155847850
+      LightShadow_pipo_47: -6455575990961602457
+      LightShadow_pipo_11: -6616294193426765685
+      LightShadow_pipo_1: -3323574433069645016
+      LightShadow_pipo_9: 8802391640164150845
+      LightShadow_pipo_28: 8425191641769204675
+      LightShadow_pipo_7: 8145312656847177426
+      LightShadow_pipo_41: -8903812487003486905
+      LightShadow_pipo_23: -5370276121606498498
+      LightShadow_pipo_16: 797445345683389961
+      LightShadow_pipo_34: 5564111135419313200
+      LightShadow_pipo_10: -5544871594754811096
+      LightShadow_pipo_29: -968855887559649583
+      LightShadow_pipo_36: 7263188253998637857
+      LightShadow_pipo_27: 3170160896359018808
+      LightShadow_pipo_17: 5256627829474286517
+      LightShadow_pipo_8: -1877315014366731619
+      LightShadow_pipo_0: -1501267470192679992
+      LightShadow_pipo_21: 2502331195449457821
+      LightShadow_pipo_13: 893514209022290874
+      LightShadow_pipo_15: -2981783492898711251
+      LightShadow_pipo_38: 735471915057342760
+      LightShadow_pipo_4: -5533693584620768744
+      LightShadow_pipo_45: 7885189695664341700
+      LightShadow_pipo_24: -6997776373822140606
+      LightShadow_pipo_37: -4323124308997485981
+      LightShadow_pipo_31: 7572044604241575255
+      LightShadow_pipo_40: -9105416545756375032
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

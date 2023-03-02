@@ -90,7 +90,7 @@ TextureImporter:
       213: 4828157313222454069
     second: ShadowChange_28
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -111,6 +111,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -149,6 +150,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -164,6 +166,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -796,6 +822,36 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      ShadowChange_26: 1521103948072592054
+      ShadowChange_14: 5071597518041695699
+      ShadowChange_27: 2390949537326243869
+      ShadowChange_15: 2096199223286323954
+      ShadowChange_16: -7241888849366394692
+      ShadowChange_2: 1409189146974370859
+      ShadowChange_5: 1783031559848654235
+      ShadowChange_13: 3481570568690797188
+      ShadowChange_9: 217167631574095175
+      ShadowChange_3: -8692345572071253093
+      ShadowChange_25: -6711732459897816839
+      ShadowChange_1: -5071382600041521631
+      ShadowChange_24: -8511262019270994549
+      ShadowChange_12: -6138493126937039983
+      ShadowChange_7: -5088377223413866939
+      ShadowChange_17: -8019313101020580774
+      ShadowChange_19: -3030942139100377054
+      ShadowChange_21: 1383058583480808626
+      ShadowChange_6: -2939375166418679861
+      ShadowChange_22: 3895777537130126162
+      ShadowChange_0: 3262168812347122958
+      ShadowChange_28: 4828157313222454069
+      ShadowChange_11: 3099409011928967991
+      ShadowChange_23: -6160151521419390563
+      ShadowChange_18: 5535527881195654297
+      ShadowChange_4: -8764861381291602559
+      ShadowChange_20: -3751490632961850295
+      ShadowChange_8: -9164949823428195917
+      ShadowChange_10: 638138169658581485
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

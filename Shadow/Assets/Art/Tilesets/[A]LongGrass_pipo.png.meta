@@ -144,7 +144,7 @@ TextureImporter:
       213: 6831025889089301443
     second: '[A]LongGrass_pipo_46'
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -165,6 +165,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -203,6 +204,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -218,6 +220,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1228,6 +1254,54 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      '[A]LongGrass_pipo_42': 1851285329739404978
+      '[A]LongGrass_pipo_9': -5525961182872713466
+      '[A]LongGrass_pipo_27': 8061645964287522600
+      '[A]LongGrass_pipo_17': 3530307526985231336
+      '[A]LongGrass_pipo_0': -3640907574959856499
+      '[A]LongGrass_pipo_7': 8580528892606309514
+      '[A]LongGrass_pipo_19': 9043082193221620724
+      '[A]LongGrass_pipo_26': 3168474335600947658
+      '[A]LongGrass_pipo_16': -61271637921115606
+      '[A]LongGrass_pipo_37': 6414826594520251617
+      '[A]LongGrass_pipo_1': 6536634384901777304
+      '[A]LongGrass_pipo_25': -7138548035456784079
+      '[A]LongGrass_pipo_29': -4795584524430806811
+      '[A]LongGrass_pipo_35': 7128953447130112048
+      '[A]LongGrass_pipo_22': 3189837121167820478
+      '[A]LongGrass_pipo_38': 1283334301064097903
+      '[A]LongGrass_pipo_24': 152968662519416687
+      '[A]LongGrass_pipo_36': 1849908438594831627
+      '[A]LongGrass_pipo_5': -4217314768050410366
+      '[A]LongGrass_pipo_3': -4107855520618678415
+      '[A]LongGrass_pipo_18': 4341227536494526245
+      '[A]LongGrass_pipo_32': 2402416725941637766
+      '[A]LongGrass_pipo_11': 8864129773788551413
+      '[A]LongGrass_pipo_41': -3205771567215021534
+      '[A]LongGrass_pipo_12': 7989846442455711564
+      '[A]LongGrass_pipo_33': -3636543807438071859
+      '[A]LongGrass_pipo_46': 6831025889089301443
+      '[A]LongGrass_pipo_6': -4127078425675709572
+      '[A]LongGrass_pipo_15': 742063528528139831
+      '[A]LongGrass_pipo_13': -3725113209081393206
+      '[A]LongGrass_pipo_44': 6723537184364566845
+      '[A]LongGrass_pipo_31': -8786769207635248411
+      '[A]LongGrass_pipo_8': -2128159239874651317
+      '[A]LongGrass_pipo_23': 5183265035823069113
+      '[A]LongGrass_pipo_20': -596317172735508218
+      '[A]LongGrass_pipo_30': -9182760020037341906
+      '[A]LongGrass_pipo_40': -7824455570846336043
+      '[A]LongGrass_pipo_39': 2581392724112888125
+      '[A]LongGrass_pipo_14': 8231382899894188851
+      '[A]LongGrass_pipo_2': -4677246745130949290
+      '[A]LongGrass_pipo_10': 3795819542749182224
+      '[A]LongGrass_pipo_4': -340348769247816413
+      '[A]LongGrass_pipo_21': -4630756072836891142
+      '[A]LongGrass_pipo_34': -3150165336235959867
+      '[A]LongGrass_pipo_43': -9054351366746206828
+      '[A]LongGrass_pipo_45': 8029907363549724600
+      '[A]LongGrass_pipo_28': -8653146453228355997
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

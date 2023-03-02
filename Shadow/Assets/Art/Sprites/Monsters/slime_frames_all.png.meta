@@ -69,7 +69,7 @@ TextureImporter:
       213: -1872952027854285208
     second: slime_frames_all_21
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -90,6 +90,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -128,6 +129,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -143,6 +145,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
@@ -628,6 +654,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      slime_frames_all_2: -1462970658646496365
+      slime_frames_all_12: 3765724223676271125
+      slime_frames_all_4: 4437077731916332939
+      slime_frames_all_7: 2266143227920703315
+      slime_frames_all_17: 7915364923428015561
+      slime_frames_all_20: -3070767316729167547
+      slime_frames_all_0: -673626547663820483
+      slime_frames_all_8: -450861920340829434
+      slime_frames_all_21: -1872952027854285208
+      slime_frames_all_13: 2429614645700959456
+      slime_frames_all_10: -4119097683284183497
+      slime_frames_all_14: -7593964374274882035
+      slime_frames_all_9: 2714102885191879080
+      slime_frames_all_6: -4885469351658861232
+      slime_frames_all_16: -7578416219204673425
+      slime_frames_all_5: -1834769722807333119
+      slime_frames_all_11: -3478718770272880583
+      slime_frames_all_18: -8219808849650422127
+      slime_frames_all_3: 3555636359297246546
+      slime_frames_all_1: -8361921593232990454
+      slime_frames_all_19: 8967515715705392841
+      slime_frames_all_15: 6726440810148294082
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

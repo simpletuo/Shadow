@@ -144,7 +144,7 @@ TextureImporter:
       213: 8769565098057046578
     second: '[A]Wall-Up1_pipo_46'
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -165,6 +165,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -203,6 +204,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -218,6 +220,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1228,6 +1254,54 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      '[A]Wall-Up1_pipo_0': -1716136660346476337
+      '[A]Wall-Up1_pipo_16': -2570819992199793660
+      '[A]Wall-Up1_pipo_14': 7336396863669378963
+      '[A]Wall-Up1_pipo_30': -2284087928208812140
+      '[A]Wall-Up1_pipo_32': -7006160270994546864
+      '[A]Wall-Up1_pipo_20': 5986968119563789204
+      '[A]Wall-Up1_pipo_9': 1993677811985409515
+      '[A]Wall-Up1_pipo_37': -1264522050830810947
+      '[A]Wall-Up1_pipo_12': 9098950151854352348
+      '[A]Wall-Up1_pipo_34': -6654975909472514842
+      '[A]Wall-Up1_pipo_10': -7297775213429215301
+      '[A]Wall-Up1_pipo_25': -5765746837299565276
+      '[A]Wall-Up1_pipo_2': 7641692094907211872
+      '[A]Wall-Up1_pipo_4': 8888121211002440899
+      '[A]Wall-Up1_pipo_46': 8769565098057046578
+      '[A]Wall-Up1_pipo_3': 1187981121889028738
+      '[A]Wall-Up1_pipo_40': 7370259540083884762
+      '[A]Wall-Up1_pipo_33': 593054475343955007
+      '[A]Wall-Up1_pipo_23': 5762993372275973484
+      '[A]Wall-Up1_pipo_8': -6636587977024094813
+      '[A]Wall-Up1_pipo_29': 5231652629845037230
+      '[A]Wall-Up1_pipo_27': 4023242511649970185
+      '[A]Wall-Up1_pipo_39': -6379104718592741327
+      '[A]Wall-Up1_pipo_19': 1638034632976589436
+      '[A]Wall-Up1_pipo_35': 8029916932373708889
+      '[A]Wall-Up1_pipo_31': -8778024641768382780
+      '[A]Wall-Up1_pipo_11': -560728242023971165
+      '[A]Wall-Up1_pipo_42': -8867846408175847864
+      '[A]Wall-Up1_pipo_7': -1782364943719358914
+      '[A]Wall-Up1_pipo_17': -4603966677923138185
+      '[A]Wall-Up1_pipo_18': -7192130597155627002
+      '[A]Wall-Up1_pipo_45': -4582272067270538068
+      '[A]Wall-Up1_pipo_21': 8443709733294094929
+      '[A]Wall-Up1_pipo_28': 3967136767344118800
+      '[A]Wall-Up1_pipo_43': -3392327377325908243
+      '[A]Wall-Up1_pipo_1': -2884730458506662832
+      '[A]Wall-Up1_pipo_24': -2439755651727524805
+      '[A]Wall-Up1_pipo_26': -3908591945716055132
+      '[A]Wall-Up1_pipo_41': -2612201276744337298
+      '[A]Wall-Up1_pipo_36': -7101499813650577256
+      '[A]Wall-Up1_pipo_13': 4929745072467477387
+      '[A]Wall-Up1_pipo_15': -6042183474099287652
+      '[A]Wall-Up1_pipo_22': -2863739123443163043
+      '[A]Wall-Up1_pipo_38': -7078774592520993973
+      '[A]Wall-Up1_pipo_6': -6209368976770480807
+      '[A]Wall-Up1_pipo_44': 7220710990497251476
+      '[A]Wall-Up1_pipo_5': 4202439684683404989
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -66,7 +66,7 @@ TextureImporter:
       213: -1573900235201568366
     second: GoblinSlingerRightAttack01_20
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -87,6 +87,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -125,6 +126,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -140,6 +142,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -604,6 +630,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      GoblinSlingerRightAttack01_3: -1118078095952483895
+      GoblinSlingerRightAttack01_16: 7800468838159806462
+      GoblinSlingerRightAttack01_19: -3939401463856533793
+      GoblinSlingerRightAttack01_8: -2745103622754719027
+      GoblinSlingerRightAttack01_2: -7662627267118295064
+      GoblinSlingerRightAttack01_13: 6290345786004909628
+      GoblinSlingerRightAttack01_12: 4643793457249805309
+      GoblinSlingerRightAttack01_7: -3196861387154082719
+      GoblinSlingerRightAttack01_5: 2625736253456463833
+      GoblinSlingerRightAttack01_9: -9039026633144632165
+      GoblinSlingerRightAttack01_20: -1573900235201568366
+      GoblinSlingerRightAttack01_11: -4969406632142314144
+      GoblinSlingerRightAttack01_6: 4429576736121317286
+      GoblinSlingerRightAttack01_15: 988455515544094901
+      GoblinSlingerRightAttack01_14: 1956064412485707539
+      GoblinSlingerRightAttack01_4: -4691049927318029672
+      GoblinSlingerRightAttack01_0: -6912649580277895566
+      GoblinSlingerRightAttack01_17: -2931422999293427051
+      GoblinSlingerRightAttack01_10: -3253640435811032157
+      GoblinSlingerRightAttack01_18: -3095693526060391997
+      GoblinSlingerRightAttack01_1: -6201108706922532170
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -567,7 +567,7 @@ TextureImporter:
       213: 3241619913220800545
     second: '[A]WaterFall3_pipo_187'
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -588,6 +588,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -626,6 +627,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -641,6 +643,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -4612,6 +4638,195 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      '[A]WaterFall3_pipo_63': -1311288090334613315
+      '[A]WaterFall3_pipo_103': -8480326131412208013
+      '[A]WaterFall3_pipo_71': -1535726646625677239
+      '[A]WaterFall3_pipo_7': -3044773100326721633
+      '[A]WaterFall3_pipo_95': -5824205754605311727
+      '[A]WaterFall3_pipo_168': -2625019238636545677
+      '[A]WaterFall3_pipo_40': 3262387226592641941
+      '[A]WaterFall3_pipo_13': 4373927909765566433
+      '[A]WaterFall3_pipo_90': -2106574774763512516
+      '[A]WaterFall3_pipo_80': -345914298812843651
+      '[A]WaterFall3_pipo_8': -714606197228922732
+      '[A]WaterFall3_pipo_76': -1712292862251044871
+      '[A]WaterFall3_pipo_54': -8657818682941838671
+      '[A]WaterFall3_pipo_70': -3613255253265961677
+      '[A]WaterFall3_pipo_180': 6877165153523187152
+      '[A]WaterFall3_pipo_51': -3940564052108808815
+      '[A]WaterFall3_pipo_33': 5316683736514389124
+      '[A]WaterFall3_pipo_3': 2241459346183608155
+      '[A]WaterFall3_pipo_114': 4362642609477545838
+      '[A]WaterFall3_pipo_132': 7822138008681496827
+      '[A]WaterFall3_pipo_174': 1992497505487418607
+      '[A]WaterFall3_pipo_93': 959536253271912728
+      '[A]WaterFall3_pipo_10': 3403294688913587981
+      '[A]WaterFall3_pipo_52': 588241040014206202
+      '[A]WaterFall3_pipo_160': -3202718812134038798
+      '[A]WaterFall3_pipo_179': 3888610398934248073
+      '[A]WaterFall3_pipo_181': 3131572597216053210
+      '[A]WaterFall3_pipo_133': -7426018449346634094
+      '[A]WaterFall3_pipo_57': -8115774520335911175
+      '[A]WaterFall3_pipo_84': -2125855169328727936
+      '[A]WaterFall3_pipo_92': -1447883578059532135
+      '[A]WaterFall3_pipo_85': 1942893292292673414
+      '[A]WaterFall3_pipo_161': -6703292173848089008
+      '[A]WaterFall3_pipo_162': 2162159426856911
+      '[A]WaterFall3_pipo_169': -4363913172955350571
+      '[A]WaterFall3_pipo_29': 3466295954123959050
+      '[A]WaterFall3_pipo_87': -8442100957684185949
+      '[A]WaterFall3_pipo_37': -967020727503650066
+      '[A]WaterFall3_pipo_55': 5288296244157545798
+      '[A]WaterFall3_pipo_96': -694546060069708250
+      '[A]WaterFall3_pipo_149': -5887870974965505980
+      '[A]WaterFall3_pipo_31': 8277178926644061973
+      '[A]WaterFall3_pipo_165': -2215269783307413531
+      '[A]WaterFall3_pipo_42': 6700145043138951436
+      '[A]WaterFall3_pipo_107': -2776795458825289158
+      '[A]WaterFall3_pipo_22': 1884549603080354793
+      '[A]WaterFall3_pipo_142': 3520940698313324164
+      '[A]WaterFall3_pipo_121': 189988694669672792
+      '[A]WaterFall3_pipo_104': 8773302676871426060
+      '[A]WaterFall3_pipo_159': -2382494479908170080
+      '[A]WaterFall3_pipo_184': 5029721142913907395
+      '[A]WaterFall3_pipo_117': -4163059528034640773
+      '[A]WaterFall3_pipo_36': -3281427918443988005
+      '[A]WaterFall3_pipo_23': 6784061320329604365
+      '[A]WaterFall3_pipo_112': 239753996921059562
+      '[A]WaterFall3_pipo_74': -3728382356696484477
+      '[A]WaterFall3_pipo_185': -7749005599524043384
+      '[A]WaterFall3_pipo_144': 6892995928815888172
+      '[A]WaterFall3_pipo_136': -2389759861478322869
+      '[A]WaterFall3_pipo_154': -9100529896920459613
+      '[A]WaterFall3_pipo_50': -7134611867207422102
+      '[A]WaterFall3_pipo_171': 408054150895958393
+      '[A]WaterFall3_pipo_102': 2895412473860075884
+      '[A]WaterFall3_pipo_14': -8238286454630515542
+      '[A]WaterFall3_pipo_120': 4913869221342977464
+      '[A]WaterFall3_pipo_58': 3546020795027909128
+      '[A]WaterFall3_pipo_64': -136897933135879202
+      '[A]WaterFall3_pipo_45': -7300089352713267868
+      '[A]WaterFall3_pipo_182': 7185020944247117330
+      '[A]WaterFall3_pipo_26': 8251826216090430600
+      '[A]WaterFall3_pipo_60': -841352417380627338
+      '[A]WaterFall3_pipo_81': -4182721842298065779
+      '[A]WaterFall3_pipo_100': -3124391246197469371
+      '[A]WaterFall3_pipo_113': -5777819975851986471
+      '[A]WaterFall3_pipo_140': -7406838835308157921
+      '[A]WaterFall3_pipo_2': 2147961310205184049
+      '[A]WaterFall3_pipo_139': 2294472954131144860
+      '[A]WaterFall3_pipo_59': -5361255284562933687
+      '[A]WaterFall3_pipo_4': 1710760795174624705
+      '[A]WaterFall3_pipo_11': 6408953331375896171
+      '[A]WaterFall3_pipo_28': 1304831838531747008
+      '[A]WaterFall3_pipo_12': -3430539717265619107
+      '[A]WaterFall3_pipo_18': 7263632489485596159
+      '[A]WaterFall3_pipo_135': -6345087850668593738
+      '[A]WaterFall3_pipo_62': -6238531389497292424
+      '[A]WaterFall3_pipo_61': 828409473485804735
+      '[A]WaterFall3_pipo_49': 935671582437459213
+      '[A]WaterFall3_pipo_138': -1513462654746082827
+      '[A]WaterFall3_pipo_91': 4930616412704491452
+      '[A]WaterFall3_pipo_39': -8566962588430319153
+      '[A]WaterFall3_pipo_43': 2508714545788635732
+      '[A]WaterFall3_pipo_125': -3201104354644259787
+      '[A]WaterFall3_pipo_44': 6633395442405578863
+      '[A]WaterFall3_pipo_166': 924850269758183538
+      '[A]WaterFall3_pipo_157': 1633413830840231709
+      '[A]WaterFall3_pipo_153': 4806280312372000503
+      '[A]WaterFall3_pipo_137': -7130705744378854939
+      '[A]WaterFall3_pipo_141': 2899127709799964482
+      '[A]WaterFall3_pipo_187': 3241619913220800545
+      '[A]WaterFall3_pipo_94': -1121851889953353048
+      '[A]WaterFall3_pipo_163': -5597045142844805226
+      '[A]WaterFall3_pipo_77': 5529602506081865046
+      '[A]WaterFall3_pipo_122': 7780249454485443854
+      '[A]WaterFall3_pipo_79': 5925635423452226777
+      '[A]WaterFall3_pipo_178': 5666505357935781443
+      '[A]WaterFall3_pipo_16': 5109120166411968183
+      '[A]WaterFall3_pipo_97': -6753656895924513509
+      '[A]WaterFall3_pipo_67': 3745231067517885536
+      '[A]WaterFall3_pipo_173': 2802425758957752113
+      '[A]WaterFall3_pipo_186': 930841584159173921
+      '[A]WaterFall3_pipo_119': -1775545512481846078
+      '[A]WaterFall3_pipo_19': -5640462895491918624
+      '[A]WaterFall3_pipo_17': 1289574204652114811
+      '[A]WaterFall3_pipo_111': -8266327446653151561
+      '[A]WaterFall3_pipo_172': -480201191536723805
+      '[A]WaterFall3_pipo_123': 125206221470367075
+      '[A]WaterFall3_pipo_73': 8333165828389194673
+      '[A]WaterFall3_pipo_75': -1350521647609664531
+      '[A]WaterFall3_pipo_101': 3775634265079697346
+      '[A]WaterFall3_pipo_98': -932269019400936828
+      '[A]WaterFall3_pipo_124': 576884568617347862
+      '[A]WaterFall3_pipo_175': 3790961172856900474
+      '[A]WaterFall3_pipo_86': -2560537087894544651
+      '[A]WaterFall3_pipo_32': 2771910375335481101
+      '[A]WaterFall3_pipo_65': -6092146732629897377
+      '[A]WaterFall3_pipo_9': 8797062006165826162
+      '[A]WaterFall3_pipo_170': 6916028948578080987
+      '[A]WaterFall3_pipo_106': -1131566622324255125
+      '[A]WaterFall3_pipo_167': 1024718483004345639
+      '[A]WaterFall3_pipo_35': 4285099542182287279
+      '[A]WaterFall3_pipo_69': 3404399134052876846
+      '[A]WaterFall3_pipo_99': 2064928970092065865
+      '[A]WaterFall3_pipo_83': 2171647131480048773
+      '[A]WaterFall3_pipo_89': 3542618472634890126
+      '[A]WaterFall3_pipo_108': 9092139858127959252
+      '[A]WaterFall3_pipo_5': 8406404740976467434
+      '[A]WaterFall3_pipo_66': 4260521333958981808
+      '[A]WaterFall3_pipo_72': -8830931666287567987
+      '[A]WaterFall3_pipo_88': 1891628294728871727
+      '[A]WaterFall3_pipo_110': 4748684881470830721
+      '[A]WaterFall3_pipo_25': 1206889270836081782
+      '[A]WaterFall3_pipo_15': 3222455708139402922
+      '[A]WaterFall3_pipo_158': 7337491224121441956
+      '[A]WaterFall3_pipo_1': 129794457323025082
+      '[A]WaterFall3_pipo_177': -382139611609564989
+      '[A]WaterFall3_pipo_183': -38690503913162135
+      '[A]WaterFall3_pipo_47': 4873873892103617634
+      '[A]WaterFall3_pipo_56': -4103346481780379482
+      '[A]WaterFall3_pipo_147': -7142112799770108054
+      '[A]WaterFall3_pipo_151': 8658242011407285206
+      '[A]WaterFall3_pipo_152': -83197460518477783
+      '[A]WaterFall3_pipo_24': 5705285243851791824
+      '[A]WaterFall3_pipo_129': -4646858305468175973
+      '[A]WaterFall3_pipo_146': 2971487480713984621
+      '[A]WaterFall3_pipo_143': -3820836996808122011
+      '[A]WaterFall3_pipo_128': 742744406329319814
+      '[A]WaterFall3_pipo_68': 2599245826793586962
+      '[A]WaterFall3_pipo_115': -6550115276662556471
+      '[A]WaterFall3_pipo_176': 4426062359912737603
+      '[A]WaterFall3_pipo_48': 6779553457174725
+      '[A]WaterFall3_pipo_41': 5580694486698063499
+      '[A]WaterFall3_pipo_118': 4816328354617044983
+      '[A]WaterFall3_pipo_148': 2167069710011893046
+      '[A]WaterFall3_pipo_156': 4228480636017910503
+      '[A]WaterFall3_pipo_30': 8755896598442055998
+      '[A]WaterFall3_pipo_78': -5981399888670823036
+      '[A]WaterFall3_pipo_82': 2716424810508625523
+      '[A]WaterFall3_pipo_126': -6237798648643895702
+      '[A]WaterFall3_pipo_145': -1573153909283813279
+      '[A]WaterFall3_pipo_116': 1396891857713980434
+      '[A]WaterFall3_pipo_131': 6293712824111767538
+      '[A]WaterFall3_pipo_105': 1773303445977122362
+      '[A]WaterFall3_pipo_0': 2479516074782264347
+      '[A]WaterFall3_pipo_127': 989043424290432383
+      '[A]WaterFall3_pipo_164': 8454977193524369725
+      '[A]WaterFall3_pipo_6': 1126794934658733439
+      '[A]WaterFall3_pipo_53': 6936718151406416723
+      '[A]WaterFall3_pipo_150': -413765063971497410
+      '[A]WaterFall3_pipo_21': 2258788916634676027
+      '[A]WaterFall3_pipo_46': 227155280557869297
+      '[A]WaterFall3_pipo_27': -7936451852549751629
+      '[A]WaterFall3_pipo_20': 5071289900206859375
+      '[A]WaterFall3_pipo_109': 6787534222660211929
+      '[A]WaterFall3_pipo_34': 2614318996968947073
+      '[A]WaterFall3_pipo_155': -2352550595187070931
+      '[A]WaterFall3_pipo_130': 8049850716022023923
+      '[A]WaterFall3_pipo_134': -1996309027225687907
+      '[A]WaterFall3_pipo_38': -2420411092356699623
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

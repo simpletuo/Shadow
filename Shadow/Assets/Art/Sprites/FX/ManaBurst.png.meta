@@ -303,7 +303,7 @@ TextureImporter:
       213: -2347735268797796716
     second: ManaBurst_49
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -324,6 +324,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -362,6 +363,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -377,6 +379,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1450,6 +1476,57 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      ManaBurst_21: -5956366956026958532
+      ManaBurst_4: -6239677808105997254
+      ManaBurst_39: 7194347724555472948
+      ManaBurst_6: 6826826745860222684
+      ManaBurst_35: 2307418919624885767
+      ManaBurst_3: -3309775454447737645
+      ManaBurst_2: -3518328505638312090
+      ManaBurst_7: -4080442211279345946
+      ManaBurst_9: -3044832420711135864
+      ManaBurst_13: -3928788989230567791
+      ManaBurst_24: -382224747156292660
+      ManaBurst_41: 1414766010972387230
+      ManaBurst_8: 4674204267776667910
+      ManaBurst_14: 1998366097727412294
+      ManaBurst_29: 5197449177984892972
+      ManaBurst_34: -5116494521042705881
+      ManaBurst_43: -4248925283985639408
+      ManaBurst_5: 6629011948800556714
+      ManaBurst_38: -551983271405761381
+      ManaBurst_0: 4919575230727094714
+      ManaBurst_40: 312913541458797314
+      ManaBurst_18: 156527826991836601
+      ManaBurst_44: 158710066598735206
+      ManaBurst_30: -859386314473298013
+      ManaBurst_42: 545587521346795804
+      ManaBurst_45: -9049286770812509342
+      ManaBurst_10: 4914156126525195360
+      ManaBurst_49: -2347735268797796716
+      ManaBurst_36: -2840921888457513153
+      ManaBurst_48: 8284104208203350862
+      ManaBurst_23: 5898423069499640767
+      ManaBurst_26: 6029518444647723708
+      ManaBurst_1: 7233431434702395732
+      ManaBurst_19: 4903170432032062672
+      ManaBurst_27: 7559933549798726884
+      ManaBurst_32: -601464905605188648
+      ManaBurst_20: -2625460708284584767
+      ManaBurst_46: -1107400643576004669
+      ManaBurst_16: 4649471345160629325
+      ManaBurst_11: -2423203248836875505
+      ManaBurst_12: -5461874651911826330
+      ManaBurst_15: -4960751887798975066
+      ManaBurst_33: -7537364006246192903
+      ManaBurst_28: -2368208712525721351
+      ManaBurst_22: 8417620428939335882
+      ManaBurst_37: -8082608370557520542
+      ManaBurst_31: 1846571417082455629
+      ManaBurst_25: 4751843914210230103
+      ManaBurst_17: -1874526703118775278
+      ManaBurst_47: 6359632679197752207
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

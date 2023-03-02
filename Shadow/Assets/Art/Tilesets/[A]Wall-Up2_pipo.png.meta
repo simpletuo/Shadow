@@ -144,7 +144,7 @@ TextureImporter:
       213: 8977791532228718320
     second: '[A]Wall-Up2_pipo_46'
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -165,6 +165,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -203,6 +204,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -218,6 +220,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1228,6 +1254,54 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      '[A]Wall-Up2_pipo_14': 534172537325583678
+      '[A]Wall-Up2_pipo_27': 5773882608016337266
+      '[A]Wall-Up2_pipo_25': 304692754158957124
+      '[A]Wall-Up2_pipo_37': 566226976994986423
+      '[A]Wall-Up2_pipo_6': -4425563885689574324
+      '[A]Wall-Up2_pipo_31': 5621311270730767224
+      '[A]Wall-Up2_pipo_0': -6734256650214395772
+      '[A]Wall-Up2_pipo_35': 8380314150187380389
+      '[A]Wall-Up2_pipo_29': -9005824504607678211
+      '[A]Wall-Up2_pipo_12': -549838333695911324
+      '[A]Wall-Up2_pipo_7': 2617288229831320069
+      '[A]Wall-Up2_pipo_41': 6966823416964055058
+      '[A]Wall-Up2_pipo_44': 1739827967523670903
+      '[A]Wall-Up2_pipo_24': -2173530496845451017
+      '[A]Wall-Up2_pipo_9': -8101830224395620963
+      '[A]Wall-Up2_pipo_19': 307061875065639300
+      '[A]Wall-Up2_pipo_13': -7673692558380929677
+      '[A]Wall-Up2_pipo_11': -4109219501646542310
+      '[A]Wall-Up2_pipo_16': -9051629511077241184
+      '[A]Wall-Up2_pipo_38': -3703077350439575352
+      '[A]Wall-Up2_pipo_1': 6868378509303804831
+      '[A]Wall-Up2_pipo_39': -2797479454108474463
+      '[A]Wall-Up2_pipo_34': 6005737790470552170
+      '[A]Wall-Up2_pipo_32': -6764460555100449312
+      '[A]Wall-Up2_pipo_2': -1824466710100509122
+      '[A]Wall-Up2_pipo_8': 3939855017025217985
+      '[A]Wall-Up2_pipo_18': 1926690937848030975
+      '[A]Wall-Up2_pipo_30': -402078774953551264
+      '[A]Wall-Up2_pipo_28': -7227935046779937318
+      '[A]Wall-Up2_pipo_26': -8283326800678224650
+      '[A]Wall-Up2_pipo_33': -8015913199021026107
+      '[A]Wall-Up2_pipo_22': -4474141008552176278
+      '[A]Wall-Up2_pipo_17': -4406227089956054812
+      '[A]Wall-Up2_pipo_40': -2646461410259952848
+      '[A]Wall-Up2_pipo_43': 2640940643149083759
+      '[A]Wall-Up2_pipo_10': 5701824263974014695
+      '[A]Wall-Up2_pipo_3': 1889858524666965985
+      '[A]Wall-Up2_pipo_20': 7186963539184775314
+      '[A]Wall-Up2_pipo_23': -3918089624395776338
+      '[A]Wall-Up2_pipo_42': 6908162484686777482
+      '[A]Wall-Up2_pipo_45': 3653704224877801177
+      '[A]Wall-Up2_pipo_36': 3870551571273294292
+      '[A]Wall-Up2_pipo_21': 5824135102458679454
+      '[A]Wall-Up2_pipo_15': -5248313141281163319
+      '[A]Wall-Up2_pipo_4': 5450632320444556758
+      '[A]Wall-Up2_pipo_5': 7228614470424894925
+      '[A]Wall-Up2_pipo_46': 8977791532228718320
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

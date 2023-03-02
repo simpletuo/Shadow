@@ -111,7 +111,7 @@ TextureImporter:
       213: 5470877974166777532
     second: Guardian_Attacks_35
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -132,6 +132,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -170,6 +171,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -185,6 +187,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
@@ -964,6 +990,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Guardian_Attacks_34: 8825735302082558196
+      Guardian_Attacks_2: 4227303869424930408
+      Guardian_Attacks_8: -3081148102450654702
+      Guardian_Attacks_11: -5557394403943863682
+      Guardian_Attacks_29: 7113542502985118056
+      Guardian_Attacks_16: -278964319818034521
+      Guardian_Attacks_7: -1317990507747370012
+      Guardian_Attacks_19: 6762555595353302243
+      Guardian_Attacks_13: 7400539317108696285
+      Guardian_Attacks_28: -1159861443263731407
+      Guardian_Attacks_20: 3292081817732424243
+      Guardian_Attacks_18: 1753884520502749558
+      Guardian_Attacks_15: -2424950513911117106
+      Guardian_Attacks_4: -8468851634345392255
+      Guardian_Attacks_5: -3265587029487871092
+      Guardian_Attacks_12: 7922145939535308488
+      Guardian_Attacks_25: -1626202739648531302
+      Guardian_Attacks_27: 5121521138635682012
+      Guardian_Attacks_0: -8210665073084493155
+      Guardian_Attacks_24: -1182462196115400862
+      Guardian_Attacks_33: -7085316996146605015
+      Guardian_Attacks_31: 8942925725366189966
+      Guardian_Attacks_26: 9146359363017442279
+      Guardian_Attacks_3: 4398012037466486839
+      Guardian_Attacks_23: 1209414763239431048
+      Guardian_Attacks_1: 3305847847667274048
+      Guardian_Attacks_9: -9130781511451340328
+      Guardian_Attacks_22: -8452739985696234148
+      Guardian_Attacks_10: -1757315536782392579
+      Guardian_Attacks_35: 5470877974166777532
+      Guardian_Attacks_17: -2964185317971777710
+      Guardian_Attacks_6: 229838139935242377
+      Guardian_Attacks_30: -6198874217231771111
+      Guardian_Attacks_14: 7561586999180055311
+      Guardian_Attacks_21: 6558627976216189962
+      Guardian_Attacks_32: -4208407924360401948
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

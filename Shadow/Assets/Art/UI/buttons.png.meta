@@ -363,7 +363,7 @@ TextureImporter:
       213: -2083067969863617123
     second: buttons_119
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -384,6 +384,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -422,6 +423,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -437,6 +439,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2980,6 +3006,127 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      buttons_97: 1135591220051787024
+      buttons_10: 8359661988393023892
+      buttons_111: -6025968899040563254
+      buttons_101: -1414982511277341377
+      buttons_60: -8941891195106007878
+      buttons_51: -7040905916438143780
+      buttons_55: 8073281348827451921
+      buttons_13: -2986871994705294210
+      buttons_19: 3349644112325863184
+      buttons_7: 5830344958925785552
+      buttons_17: 7174167584646727459
+      buttons_26: -6569476227874363533
+      buttons_72: 8565151043928944859
+      buttons_84: -2446308454601199794
+      buttons_15: -8315295956674182197
+      buttons_75: 4415697461712528748
+      buttons_86: -6781038946873066716
+      buttons_76: -8691573043758897702
+      buttons_30: 1292944054767224858
+      buttons_81: -6792878834952278592
+      buttons_88: -4580732363872246914
+      buttons_25: -4593533388180513840
+      buttons_107: 6185342195285539880
+      buttons_20: 8864463547421281627
+      buttons_118: -5395575678135575866
+      buttons_106: -2446260246102092612
+      buttons_109: -5182080230657576728
+      buttons_8: 650656284835190746
+      buttons_35: 3649682668872729836
+      buttons_23: -2381909340392218158
+      buttons_37: 7104100828378297237
+      buttons_115: 5854336633574242037
+      buttons_96: -8046549510353347932
+      buttons_27: -7173023993303075856
+      buttons_70: 2482110582044746790
+      buttons_114: 6481781042064450473
+      buttons_61: 8729826108785491142
+      buttons_69: -3833336728332328957
+      buttons_93: 4402693429201049392
+      buttons_116: 3464261871516070903
+      buttons_1: 3713549098536957005
+      buttons_44: -3498038827981114937
+      buttons_87: 6561988961232847171
+      buttons_74: 2016224449751298179
+      buttons_38: -277150451195059999
+      buttons_99: -6759715313558883503
+      buttons_32: -3284123783961330267
+      buttons_42: 3629552113743652334
+      buttons_105: -8312161434104230682
+      buttons_16: -77006150763170147
+      buttons_29: -1058752386943646202
+      buttons_18: 6506343174705358099
+      buttons_39: -6535952017968220885
+      buttons_64: -2765027948709385972
+      buttons_33: 898765121896881095
+      buttons_49: 1424503782526874370
+      buttons_54: -5716772134825818218
+      buttons_110: 8589220445129035858
+      buttons_34: -6202158137699133530
+      buttons_41: -904788540972650431
+      buttons_59: -8032359692870920395
+      buttons_80: 3029093052713225906
+      buttons_31: 3443885846195075332
+      buttons_73: -3792036672974979914
+      buttons_36: -9010618283849265056
+      buttons_67: -6923650158977379923
+      buttons_0: -8191739510646017925
+      buttons_89: 6500474020046086642
+      buttons_6: -3219683103784253410
+      buttons_117: -5481622652210630431
+      buttons_56: 6255964589990384325
+      buttons_12: -9124727645642988533
+      buttons_68: -1319351300093813593
+      buttons_21: 1654285022694055569
+      buttons_82: -4793839417704092835
+      buttons_45: -1227290620858423495
+      buttons_98: -7129057219300375229
+      buttons_46: -5905759835507714182
+      buttons_65: 5529144207234609176
+      buttons_112: 328106271919005813
+      buttons_102: -6099450197583250028
+      buttons_28: -7752543883522589242
+      buttons_47: 6373764620684517014
+      buttons_90: -5086610956764528663
+      buttons_52: 6377207506091930082
+      buttons_94: 5759036282096068859
+      buttons_108: -5659595916227841509
+      buttons_24: 4116711184687805582
+      buttons_22: 6195944701763404407
+      buttons_85: 5218881855603209785
+      buttons_14: -7237472072382729174
+      buttons_83: 8226599178689844687
+      buttons_62: -5853304229874768196
+      buttons_50: 751619234830965361
+      buttons_91: 2669729753693416901
+      buttons_104: -7412958714779794378
+      buttons_58: 4726521845683557580
+      buttons_2: -480254276019886394
+      buttons_66: -5848384365826359094
+      buttons_119: -2083067969863617123
+      buttons_40: -1491181173098823914
+      buttons_4: 2958514102543403041
+      buttons_78: 4078701833844049763
+      buttons_71: -4164462211057006886
+      buttons_103: 2733586003272047719
+      buttons_63: -925820561291873320
+      buttons_11: -7138311499508957143
+      buttons_92: -1499860821656636552
+      buttons_53: -4613596736982966785
+      buttons_48: 2964078817955830612
+      buttons_95: -5920045942839304017
+      buttons_100: 8813799127653401378
+      buttons_5: 1008705478319212569
+      buttons_113: -3017568733523671766
+      buttons_57: 2448924357935075935
+      buttons_79: -6754223691385610924
+      buttons_43: 8703469844454461517
+      buttons_9: 4009284081192125275
+      buttons_3: -6460607209241108654
+      buttons_77: -8612935798077234037
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

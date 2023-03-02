@@ -168,7 +168,7 @@ TextureImporter:
       213: 3978293916318089111
     second: slime-Sheet_54
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -189,6 +189,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -227,6 +228,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -242,6 +244,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1420,6 +1446,62 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      slime-Sheet_5: 1734891440256307957
+      slime-Sheet_6: 6887022319851403142
+      slime-Sheet_45: 6534821023886610730
+      slime-Sheet_1: 5952692474738800764
+      slime-Sheet_47: 6986448251082182084
+      slime-Sheet_50: -4812424403977340860
+      slime-Sheet_29: 7918504677642127139
+      slime-Sheet_9: 3146804172381277489
+      slime-Sheet_48: 1271528585047714075
+      slime-Sheet_4: -8154299252778131244
+      slime-Sheet_15: 4811920900910276441
+      slime-Sheet_2: 4909821198284645373
+      slime-Sheet_33: -2469442085345497946
+      slime-Sheet_26: -499619246630767563
+      slime-Sheet_13: 4993349697702114157
+      slime-Sheet_40: 147631528466477654
+      slime-Sheet_41: -864898665028585182
+      slime-Sheet_22: -8267018212486940465
+      slime-Sheet_7: 5957987307645184366
+      slime-Sheet_11: 9207829615066030709
+      slime-Sheet_38: -6898589322387177847
+      slime-Sheet_12: -7380300888587303819
+      slime-Sheet_3: 4179155057698957012
+      slime-Sheet_43: 510859044078687105
+      slime-Sheet_19: -2658792678680092322
+      slime-Sheet_46: -1195590136238369230
+      slime-Sheet_53: -2994314745715416126
+      slime-Sheet_36: -1506047253194815519
+      slime-Sheet_37: 7446681308654467920
+      slime-Sheet_18: 1577109790741768683
+      slime-Sheet_21: -3821613416253638412
+      slime-Sheet_30: -3641239476466504190
+      slime-Sheet_28: 4309083860467307656
+      slime-Sheet_25: -5354840080845136255
+      slime-Sheet_14: 3913231095913793702
+      slime-Sheet_20: 1516403292026958468
+      slime-Sheet_8: 121371861024997490
+      slime-Sheet_10: -2200864171832323305
+      slime-Sheet_24: -5175774611569621537
+      slime-Sheet_39: -221586056935884340
+      slime-Sheet_31: -8715424588912769297
+      slime-Sheet_42: -4165394840680780539
+      slime-Sheet_17: -4570960877372392886
+      slime-Sheet_49: 4163347857200106458
+      slime-Sheet_0: 3225832317793331946
+      slime-Sheet_23: 1436478141726120049
+      slime-Sheet_52: -6103222528057943791
+      slime-Sheet_32: 9079610136613091491
+      slime-Sheet_27: 5810051304545099447
+      slime-Sheet_54: 3978293916318089111
+      slime-Sheet_34: 2361791434600722158
+      slime-Sheet_35: 3159573102460104687
+      slime-Sheet_51: -4600063649517598834
+      slime-Sheet_16: -7772930111310310504
+      slime-Sheet_44: 7049404673827078715
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -66,7 +66,7 @@ TextureImporter:
       213: 7460607129436660045
     second: ItemsMobA_20
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -87,6 +87,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -125,6 +126,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -140,6 +142,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
@@ -604,6 +630,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      ItemsMobA_0: 434901119778713889
+      ItemsMobA_5: -4406542834719102034
+      ItemsMobA_6: 6751781010683169555
+      ItemsMobA_3: -7292077815398206022
+      ItemsMobA_17: 5929268984432166123
+      ItemsMobA_9: 3799137413002312710
+      ItemsMobA_13: -4311215351584038525
+      ItemsMobA_18: 6497805288705315510
+      ItemsMobA_14: -2823188041847103134
+      ItemsMobA_11: -2897956981780156469
+      ItemsMobA_8: 6229386040656166954
+      ItemsMobA_19: -2613705274554403839
+      ItemsMobA_4: 5857132438258171406
+      ItemsMobA_10: -5911556348889887719
+      ItemsMobA_12: 138519801558253516
+      ItemsMobA_1: -1981024477956164540
+      ItemsMobA_2: -7360999234838257147
+      ItemsMobA_15: 7997236479080048479
+      ItemsMobA_16: -5434146658033812596
+      ItemsMobA_20: 7460607129436660045
+      ItemsMobA_7: -1430784085653207985
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

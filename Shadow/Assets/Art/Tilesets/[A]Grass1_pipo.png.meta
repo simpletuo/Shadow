@@ -144,7 +144,7 @@ TextureImporter:
       213: -5905714500674212462
     second: '[A]Grass1_pipo_46'
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -165,6 +165,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -203,6 +204,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -218,6 +220,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1228,6 +1254,54 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      '[A]Grass1_pipo_8': -6832294000373391604
+      '[A]Grass1_pipo_34': 6640024006016838411
+      '[A]Grass1_pipo_18': -2345521471681730618
+      '[A]Grass1_pipo_42': -3464127529370192835
+      '[A]Grass1_pipo_6': 3904786615339547970
+      '[A]Grass1_pipo_13': -6636919262582072971
+      '[A]Grass1_pipo_4': -883753676609400727
+      '[A]Grass1_pipo_36': 4283547851821460316
+      '[A]Grass1_pipo_7': -7604274579461239527
+      '[A]Grass1_pipo_28': -6535782211265017749
+      '[A]Grass1_pipo_22': -3624770152598566578
+      '[A]Grass1_pipo_38': 5873530329182997287
+      '[A]Grass1_pipo_27': -1315483717295102093
+      '[A]Grass1_pipo_43': -8751805229053342081
+      '[A]Grass1_pipo_41': 2079815931966667943
+      '[A]Grass1_pipo_23': 8571721568412145733
+      '[A]Grass1_pipo_33': 320131984251281976
+      '[A]Grass1_pipo_12': -289614093828150066
+      '[A]Grass1_pipo_14': -1330307247785643503
+      '[A]Grass1_pipo_26': -7443528497816458098
+      '[A]Grass1_pipo_10': 2626668733036008024
+      '[A]Grass1_pipo_44': 1511437810439455084
+      '[A]Grass1_pipo_35': -3792242667015997820
+      '[A]Grass1_pipo_20': -4963543947344114305
+      '[A]Grass1_pipo_31': 5956716332470149856
+      '[A]Grass1_pipo_45': -5796356366294149718
+      '[A]Grass1_pipo_5': -133636642633454385
+      '[A]Grass1_pipo_30': 4344877746854081078
+      '[A]Grass1_pipo_15': -5551567487873843993
+      '[A]Grass1_pipo_39': 2370926277879232017
+      '[A]Grass1_pipo_46': -5905714500674212462
+      '[A]Grass1_pipo_9': 487021079025368008
+      '[A]Grass1_pipo_32': -4558918628885065481
+      '[A]Grass1_pipo_24': -9038628194802314285
+      '[A]Grass1_pipo_16': -1272086447578675221
+      '[A]Grass1_pipo_37': 8399919508696321659
+      '[A]Grass1_pipo_17': -2113620756416101908
+      '[A]Grass1_pipo_0': -7938271897603099890
+      '[A]Grass1_pipo_1': -4981465008838074068
+      '[A]Grass1_pipo_21': 5233168742470404990
+      '[A]Grass1_pipo_29': 6290548964615508005
+      '[A]Grass1_pipo_3': -4715539122891686254
+      '[A]Grass1_pipo_11': 315620553291231427
+      '[A]Grass1_pipo_2': 6523150809773061605
+      '[A]Grass1_pipo_19': 685719118027800419
+      '[A]Grass1_pipo_25': 3847020776485666025
+      '[A]Grass1_pipo_40': -2028974870998580948
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

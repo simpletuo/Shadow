@@ -69,7 +69,7 @@ TextureImporter:
       213: 6846048004002876534
     second: ItemsPotion_21
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -90,6 +90,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -128,6 +129,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -143,6 +145,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -628,6 +654,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      ItemsPotion_19: 3002639767998699019
+      ItemsPotion_21: 6846048004002876534
+      ItemsPotion_10: -5688591430339772144
+      ItemsPotion_17: -8786025424518815347
+      ItemsPotion_20: -3459909617181983804
+      ItemsPotion_2: -5830216664552592848
+      ItemsPotion_12: -1808174821709965779
+      ItemsPotion_5: 4924898748281556492
+      ItemsPotion_14: -6892182950438398771
+      ItemsPotion_6: -6947657686336534177
+      ItemsPotion_11: 258794442815200856
+      ItemsPotion_1: 4504634867503646255
+      ItemsPotion_8: 8582872188592622346
+      ItemsPotion_13: -9021585165060721990
+      ItemsPotion_16: 6927747886038638629
+      ItemsPotion_3: -7981245606723706876
+      ItemsPotion_7: 7677031195182035456
+      ItemsPotion_18: -8300484726632129389
+      ItemsPotion_15: 1838961546140806523
+      ItemsPotion_4: 5168887866551961611
+      ItemsPotion_0: -629362287059253685
+      ItemsPotion_9: -1738724421029491433
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
